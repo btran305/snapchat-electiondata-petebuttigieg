@@ -4,7 +4,7 @@
 
 Advertisements are necessesary for political candidates to get their names and agendas out there. While it is crucial to have a good ad with good content, it is also necessary to look at how well the ad is doing by studying how many people have seen and interact with it to potentially increase this number. This study looks at Snapchat ads for Pete Buttigieg's campaign between Jan and Feb 2020. In the end, I found that Spending was the variable influencing number of Impressions. A bigger dataset would make the test more precise.
 
-![alt text](https://github.com/btran305/snapchat-electiondata-petebuttigieg/blob/master/plot-spendingvsimpressions.png "Plot showing correlation between spending and how many impressions ads get)
+![alt text](https://github.com/btran305/snapchat-electiondata-petebuttigieg/blob/master/plot-spendingvsimpressions.png "Plot showing correlation between spending and how many impressions ads get")
 
 ## Data Source
 
